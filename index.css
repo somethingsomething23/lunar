@@ -25,6 +25,21 @@ body {
     
 }
 
+.started {
+  border-radius: 10px;
+  width: 400px;
+  height: 50px;
+  background: transparent;
+  border: 1px solid rgb(255, 255, 255);
+  margin-top: 50px;
+  transition: 1s;
+}
+
+
+
+.demo {
+  font-size: 1000px;
+}
 
 .gbagamebox {
   width: 500px;
